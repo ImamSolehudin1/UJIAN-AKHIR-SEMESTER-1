@@ -27,8 +27,6 @@ Berikut adlah programnya :
 Berikut programnya :
 ![Gambar](ss/main.jpg)
 - Hasil dari program yang telah kita buat :
-![Gambar](ss/soal-uas.png)
-![Gambar](ss/soal-uas.png)
-![Gambar](ss/soal-uas.png)
-![Gambar](ss/soal-uas.png)
-![Gambar](ss/soal-uas.png)
+![Gambar](ss/tambah_data.jpg)
+![Gambar](ss/ubah_data.jpg)
+![Gambar](ss/hapus_data.jpg)
